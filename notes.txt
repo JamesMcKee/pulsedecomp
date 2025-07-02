@@ -1,0 +1,15 @@
+looks like I need to run trial_models_bootstrap.sh
+
+looks like I have this working quite well now - will tidy a few things up and then run it on a bunch of data
+
+
+
+
+
+
+
+
+
+
+
+
